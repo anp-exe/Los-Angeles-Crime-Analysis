@@ -1,1 +1,2 @@
+data/*.csv filter=lfs diff=lfs merge=lfs -text
 data/Crime_Data.csv filter=lfs diff=lfs merge=lfs -text
