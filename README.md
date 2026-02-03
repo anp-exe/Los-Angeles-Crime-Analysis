@@ -24,11 +24,5 @@ You have been asked to support the Los Angeles Police Department (LAPD) by analy
 | `'Status Desc'`  | Crime status.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | `'LOCATION'`     | Street address of the crime.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
  
-The data comes from https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/data_preview
-
 ## The Data
-
-They have provided you with a single dataset to use. A summary and preview are provided below.
-
-It is a modified version of the original data, which is publicly available from Los Angeles Open Data.
- |
+The data comes from https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/data_preview
