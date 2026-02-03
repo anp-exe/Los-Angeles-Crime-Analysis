@@ -3,7 +3,7 @@
 
 ![los_angles.jpg](imgs/los_angles.jpg)
 
-All of the code for the project can br found here: [Crime stats.](data_analysis_crime.ipynb)
+All of the code for the project can be found here: [Crime stats.](data_analysis_crime.ipynb)
 
 You have been asked to support the Los Angeles Police Department (LAPD) by analyzing crime data to identify patterns in criminal behavior. They plan to use your insights to allocate resources effectively to tackle various crimes in different areas.
 
